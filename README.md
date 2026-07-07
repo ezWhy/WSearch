@@ -21,7 +21,7 @@ Instead of digging through your entire computer, WSearch lets you focus on the p
 
 ### Search Settings
 
-![Search Settings](assets/screenshots/settings.png)
+![Search Settings](assets/screenshots/WSearch-6.png)
 
 ### Advanced Search
 
