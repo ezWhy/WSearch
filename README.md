@@ -17,17 +17,16 @@ Instead of digging through your entire computer, WSearch lets you focus on the p
 
 ### Search Results
 
-![Search Results](assets/screenshots/search-results.png)
+![Search Results](assets/screenshots/WSearch-1-1.jpeg)
 
 ### Search Settings
 
-![Search Settings](assets/screenshots/WSearch-6.png)
+![Search Settings](assets/screenshots/WSearch-2.jpeg)
 
 ### Advanced Search
 
-![Advanced Search](assets/screenshots/settings-0.png)
-![Advanced Search](assets/screenshots/settings-1.png)
-![Advanced Search](assets/screenshots/settings-2.png)
+![Advanced Search](assets/screenshots/WSearch-3.jpeg)
+![Advanced Search](assets/screenshots/WSearch-4.jpeg)
 
 ---
 
